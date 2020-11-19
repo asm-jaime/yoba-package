@@ -4,7 +4,8 @@
 
 ### folders
 
- * `pic.size(128x128)` - named yoba-smiles for chats
- * `pic.size(rnd)` - named yoba pictures
+ * `pic.size.128x128` and `gif.size.128x128.64kb` - named meme-emoji suitable for a slack-conference
+ * `pic.512x512` - named stickers suitable for a telegram chat
+ * `pic.materials` and `gif.materials` - materials
 
  * `conf.logo` - your mom
